@@ -45,3 +45,36 @@ teniendo dos variables y = 10 y z = 5.
 
 1.5 Usa el correcto operador de asignación que resultará en x = 50,
 teniendo dos variables y = 10 y z = 5.
+
+- **Iteración #4: Arrays**
+
+1.1 Consigue el valor "HULK" del array de cars y muestralo por consola.
+const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];  
+
+1.2 Cambia el primer elemento de avengers a "IRONMAN"
+const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];  
+
+1.3 Alert numero de elementos en el array usando la propiedad correcta de Array.
+const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];  
+
+1.4 Añade 2 elementos al array: "Morty" y "Summer". 
+Muestra en consola el último personaje del array
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];  
+
+1.5 Elimina el último elemento del array y muestra el primero y el último por consola.
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];  
+
+1.6 Elimina el segundo elemento del array y muestra el array por consola.
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];  
+
+- **Iteración #6: Bucles**
+
+1.1 Crea un bucle for que vaya desde 0 a 9 y muestralo por consola.  
+
+1.2 Crea un bucle for que vaya desde 0 a 9 y muestralo por consola solo 
+cuando el resto del numero dividido entre 2 sea 0.  
+
+1.3 Crea un bucle para conseguir dormir contando ovejas. 
+Este bucle empieza en 0 y termina en 10. 
+Muestra por consola un mensaje diciendo 'Intentando dormir' en cada vuelta del bucle 
+y cambia el mensaje en la última vuelta a 'Dormido!'.
